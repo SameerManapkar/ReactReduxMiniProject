@@ -24,3 +24,8 @@ Axios
 Semantic UI
 Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
+
+![Screenshot 1](https://user-images.githubusercontent.com/112792202/234473207-162cf0f6-90ec-4ca5-a1ae-3c361960e990.png)
+
+
+![Screenshot 2](https://user-images.githubusercontent.com/112792202/234473152-05ca3c47-bf84-44e8-b530-2936adb24dd1.png)
